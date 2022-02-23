@@ -1,4 +1,4 @@
-# N Back (2-back) task
+# N Back (2-back) task (MATLAB)
 
 # Introduction
 The n-back task is a performance task that is commonly used as an assessment in psychology
